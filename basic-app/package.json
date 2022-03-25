@@ -1,5 +1,6 @@
 {
     "name": "basic-app",
+    "homepage": "https://mapuiextensions.github.io/react-olext.github.io/en/v0.1/examples/basic-app/",
     "version": "0.1.1",
     "private": true,
     "dependencies": {
