@@ -1,10 +1,10 @@
 {
     "name": "basic-app",
-    "homepage": "https://mapuiextensions.github.io/react-olext.github.io/en/v0.1/examples/basic-app/",
-    "version": "0.1.1",
+    "homepage": "https://mapuiexts.github.io/react-olext.github.io/en/v0.1/examples/basic-app/",
+    "version": "0.1.2",
     "private": true,
     "dependencies": {
-        "@mapuiexts/react-olext": "^0.1.1",
+        "@mapuiexts/react-olext": "^0.1.2",
         "@testing-library/jest-dom": "^5.16.3",
         "@testing-library/react": "^12.1.4",
         "@testing-library/user-event": "^13.5.0",
