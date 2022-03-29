@@ -1,0 +1,42 @@
+{
+    "name": "basic-app-with-custom-theme",
+    "homepage": "https://mapuiexts.github.io/react-olext.github.io/en/v0.1/examples/basic-app-with-custom-theme/",
+    "version": "0.1.2",
+    "private": true,
+    "dependencies": {
+        "@craco/craco": "^7.0.0-alpha.3",
+        "@mapuiexts/react-olext": "^0.1.2",
+        "@testing-library/jest-dom": "^5.16.3",
+        "@testing-library/react": "^12.1.4",
+        "@testing-library/user-event": "^13.5.0",
+        "craco-less": "^2.0.0",
+        "react": "^17.0.2",
+        "react-dom": "^17.0.2",
+        "react-scripts": "5.0.0",
+        "web-vitals": "^2.1.4"
+    },
+    "scripts": {
+        "start": "craco start",
+        "build": "craco  build",
+        "test": "craco  test",
+        "eject": "craco  eject"
+    },
+    "eslintConfig": {
+        "extends": [
+            "react-app",
+            "react-app/jest"
+        ]
+    },
+    "browserslist": {
+        "production": [
+            ">0.2%",
+            "not dead",
+            "not op_mini all"
+        ],
+        "development": [
+            "last 1 chrome version",
+            "last 1 firefox version",
+            "last 1 safari version"
+        ]
+    }
+}
