@@ -26,7 +26,7 @@ import {get as getProjection} from 'ol/proj';
 import './App.css';
 //import 'antd/dist/antd.css';
 import 'antd/dist/antd.min.css'; //https://github.com/ant-design/ant-design/issues/33327
-import 'ol/ol.css';
+import '@mapuiexts/react-olext/dist/assets/css/react-olext-ol.css'
 
 //Init Vector Layer to render wfs queries
 const createWfsLayer = (map) => {
